@@ -1,2 +1,2 @@
 # Emoji-App
-Created with CodeSandbox
+Created with CodeSandbox using react template.
