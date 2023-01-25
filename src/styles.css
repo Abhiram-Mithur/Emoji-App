@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 1rem;
+  width: 50%;
+  border-radius: 0.5rem;
+
+  border-style: none;
+}
+body {
+  background-color: chocolate;
+}
+h1 {
+  margin-top: 20%;
+}
+h2 {
+  color: white;
+}
